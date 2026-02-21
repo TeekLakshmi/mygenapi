@@ -15,5 +15,5 @@ jobs:
 
       - name: Push to HF
         env:
-          HF_TOKEN: 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
-        run: git push --force https://TeekLakshmi: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@huggingface.co/spaces/TeekLakshmi/Fast-Api main
+          HF_TOKEN: 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
+        run: git push --force https://TeekLakshmi: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@huggingface.co/spaces/TeekLakshmi/Fast-Api main
